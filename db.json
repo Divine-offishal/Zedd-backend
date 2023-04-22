@@ -149,79 +149,79 @@
       "description": "A roof rack is an accessory that is mounted on top of a car to carry extra luggage and equipment. It is designed to fit a specific make and model of car, and can be used to carry items such as bikes, kayaks, and skis.",
       "price": 129.99,
       "category": "Exterior Accessories",
-      "image": "/assets/car1.webp",
+      "image": "/assets/repair1.webp",
       "id": 1
     },
     {
-      "name": "Floor Mats",
+      "name": "HUMMER Compatible AUTO LED Floor Mats",
       "description": "Floor mats are accessories that are placed on the floor of a car to protect the carpet from dirt, debris, and wear and tear. They come in a variety of materials and styles, and can be customized to fit the specific make and model of a car.",
       "price": 39.99,
       "category": "Interior Accessories",
-      "image": "/assets/car1.webp",
+      "image": "/assets/repair2.webp",
       "id": 2
     },
     {
-      "name": "Backup Camera",
+      "name": "2014-2019 Anytime Front and Backup Camera Kit",
       "description": "A backup camera is an accessory that is mounted on the rear of a car to provide a view of what is behind the car when backing up. It can help prevent accidents and make parking easier.",
       "price": 79.99,
       "category": "Electronics",
-      "image": "/assets/car1.webp",
+      "image": "/assets/repair3.webp",
       "id": 3
     },
     {
-      "name": "LED Headlights",
+      "name": "2010-2014 Volkswagen Golf 6 Front LED Headlights Assembly",
       "description": "LED headlights are an upgrade from traditional halogen headlights. They provide brighter and more focused light, which can improve visibility while driving. They are also more energy-efficient and longer-lasting than halogen headlights.",
       "price": 199.99,
       "category": "Lighting",
-      "image": "/assets/car1.webp",
+      "image": "/assets/repair4.webp",
       "id": 4
     },
     {
-      "name": "Seat Covers",
+      "name": "Car Seat Cushion Cover Protector Set",
       "description": "Seat covers are accessories that are placed over the seats of a car to protect them from stains, spills, and wear and tear. They can also add a touch of style and personalization to the interior of a car.",
       "price": 59.99,
       "category": "Interior Accessories",
-      "image": "/assets/car1.webp",
+      "image": "/assets/repair5.webp",
       "id": 5
     },
     {
-      "name": "Roof Rack",
+      "name": "Tires",
       "description": "A roof rack is an accessory that is mounted on top of a car to carry extra luggage and equipment. It is designed to fit a specific make and model of car, and can be used to carry items such as bikes, kayaks, and skis.",
       "price": 129.99,
       "category": "Exterior Accessories",
-      "image": "/assets/car1.webp",
+      "image": "/assets/repair6.webp",
       "id": 6
     },
     {
-      "name": "Floor Mats",
+      "name": "Steering wheel cover",
       "description": "Floor mats are accessories that are placed on the floor of a car to protect the carpet from dirt, debris, and wear and tear. They come in a variety of materials and styles, and can be customized to fit the specific make and model of a car.",
       "price": 39.99,
       "category": "Interior Accessories",
-      "image": "/assets/car1.webp",
+      "image": "/assets/repair7.webp",
       "id": 7
     },
     {
-      "name": "Backup Camera",
+      "name": "Anti-theft steering wheel lock",
       "description": "A backup camera is an accessory that is mounted on the rear of a car to provide a view of what is behind the car when backing up. It can help prevent accidents and make parking easier.",
       "price": 79.99,
       "category": "Electronics",
-      "image": "/assets/car1.webp",
+      "image": "/assets/repair8.webp",
       "id": 8
     },
     {
-      "name": "LED Headlights",
+      "name": "Spanner",
       "description": "LED headlights are an upgrade from traditional halogen headlights. They provide brighter and more focused light, which can improve visibility while driving. They are also more energy-efficient and longer-lasting than halogen headlights.",
       "price": 199.99,
       "category": "Lighting",
-      "image": "/assets/car1.webp",
+      "image": "/assets/repair9.webp",
       "id": 9
     },
     {
-      "name": "Seat Covers",
+      "name": "Tire Rim covers",
       "description": "Seat covers are accessories that are placed over the seats of a car to protect them from stains, spills, and wear and tear. They can also add a touch of style and personalization to the interior of a car.",
       "price": 59.99,
       "category": "Interior Accessories",
-      "image": "/assets/car1.webp",
+      "image": "/assets/repair10.webp",
       "id": 10
     }
   ]
