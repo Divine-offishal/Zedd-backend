@@ -5,141 +5,162 @@
       "description": "The 2023 Porsche 911 GT3 is a high-performance sports car with a naturally aspirated 4.0-liter flat-six engine that produces 502 horsepower. It can accelerate from 0 to 60 mph in just 3.2 seconds.",
       "company": "Porsche",
       "image": "https://divine-offishal.github.io/zedd-images/car1.webp",
-      "id": 1
+      "id": 1,
+      "price": "$161,100"
     },
     {
       "name": "2023 Audi RS e-tron GT",
       "description": "The 2023 Audi RS e-tron GT is a high-performance electric sports car with a dual-motor powertrain that produces a combined 637 horsepower. It can accelerate from 0 to 60 mph in just 3.1 seconds.",
       "company": "Audi",
       "image": "https://divine-offishal.github.io/zedd-images/car2.webp",
-      "id": 2
+      "id": 2,
+      "price": "$139,900"
     },
     {
       "name": "2023 Mercedes-AMG GT 63 S E Performance",
       "description": "The 2023 Mercedes-AMG GT 63 S E Performance is a high-performance hybrid sports car with a twin-turbocharged 4.0-liter V8 engine and an electric motor that produce a combined 831 horsepower. It can accelerate from 0 to 60 mph in just 2.9 seconds.",
       "company": "Mercedes-AMG",
       "image": "https://divine-offishal.github.io/zedd-images/car3.webp",
-      "id": 3
+      "id": 3,
+      "price": "$183,000"
     },
     {
       "name": "2023 Lamborghini Huracán Evo",
       "description": "The 2023 Lamborghini Huracán Evo is a high-performance sports car with a naturally aspirated 5.2-liter V10 engine that produces 631 horsepower. It can accelerate from 0 to 60 mph in just 2.9 seconds.",
       "company": "Lamborghini",
       "image": "https://divine-offishal.github.io/zedd-images/car4.webp",
-      "id": 4
+      "id": 4,
+      "price": "$261,274"
     },
     {
       "name": "BMW GX",
       "description": "The 2023 BMW M5 CS is a high-performance luxury sedan with a twin-turbocharged 4.4-liter V8 engine that produces 627 horsepower. It can accelerate from 0 to 60 mph in just 2.9 seconds.",
       "company": "BMW",
       "image": "https://divine-offishal.github.io/zedd-images/car5.webp",
-      "id": 5
+      "id": 5,
+      "price": "$142,000"
     },
     {
       "name": "Porsche Panamera 2022 Turbo",
       "description": "The 2023 Porsche Panamera Turbo S E-Hybrid is a high-performance luxury sedan with a twin-turbocharged 4.0-liter V8 engine and an electric motor that produce a combined 690 horsepower. It can accelerate from 0 to 60 mph in just 3.0 seconds.",
       "company": "Porsche",
       "image": "https://divine-offishal.github.io/zedd-images/car6.webp",
-      "id": 6
+      "id": 6,
+      "price": "$200,000"
     },
     {
       "name": "2023 Audi RS Q6 e-tron",
       "description": "The 2023 Audi RS 7 is a high-performance luxury sedan with a twin-turbocharged 4.0-liter V8 engine that produces 591 horsepower. It can accelerate from 0 to 60 mph in just 3.5 seconds.",
       "company": "Audi",
       "image": "https://divine-offishal.github.io/zedd-images/car7.webp",
-      "id": 7
+      "id": 7,
+      "price": "$150,000"
     },
     {
       "name": "2023 Mercedes-AMG C 63 S",
       "description": "The 2023 Mercedes-AMG C 63 S is a high-performance luxury sedan with a twin-turbocharged 4.0-liter V8 engine that produces 503 horsepower. It can accelerate from 0 to 60 mph in just 3.8 seconds.",
       "company": "Mercedes-AMG",
       "image": "https://divine-offishal.github.io/zedd-images/car8.webp",
-      "id": 8
+      "id": 8,
+      "price": "$120,000"
     },
     {
       "name": "2023 Lamborghini Aventador S",
       "description": "The 2023 Lamborghini Aventador S is a high-performance sports car with a naturally aspirated 6.5-liter V12 engine that produces 729 horsepower. It can accelerate from 0 to 60 mph in just 2.9 seconds.",
       "company": "Lamborghini",
       "image": "https://divine-offishal.github.io/zedd-images/car9.webp",
-      "id": 9
+      "id": 9,
+      "price": "$400,000"
     },
     {
       "name": "2023 BMW X7 M50i",
       "description": "The 2023 BMW X7 M50i is a high-performance luxury SUV with a twin-turbocharged 4.4-liter V8 engine that produces 523 horsepower. It can accelerate from 0 to 60 mph in just 4.1 seconds.",
       "company": "BMW",
       "image": "https://divine-offishal.github.io/zedd-images/car10.webp",
-      "id": 10
+      "id": 10,
+      "price": "$100,000"
     },
     {
       "name": "2023 Porsche 911 GT3 RS",
       "description": "The 2023 Porsche 911 GT3 RS is a high-performance sports car with a naturally aspirated 4.0-liter flat-six engine that produces 502 horsepower. It can accelerate from 0 to 60 mph in just 3.0 seconds.",
       "company": "Porsche",
       "image": "https://divine-offishal.github.io/zedd-images/Car11.webp",
-      "id": 11
+      "id": 11,
+      "price": "$187,500"
     },
     {
       "name": "2023 Audi R8 V10 Performance",
       "description": "The 2023 Audi R8 V10 Performance is a high-performance sports car with a naturally aspirated 5.2-liter V10 engine that produces 611 horsepower. It can accelerate from 0 to 60 mph in just 3.2 seconds.",
       "company": "Audi",
       "image": "https://divine-offishal.github.io/zedd-images/car12.webp",
-      "id": 12
+      "id": 12,
+      "price": "$208,100"
     },
     {
       "name": "2023 Mercedes-AMG GT R Pro",
       "description": "The 2023 Mercedes-AMG GT R Pro is a high-performance sports car with a twin-turbocharged 4.0-liter V8 engine that produces 577 horsepower. It can accelerate from 0 to 60 mph in just 3.5 seconds.",
       "company": "Mercedes-AMG",
       "image": "https://divine-offishal.github.io/zedd-images/car13.webp",
-      "id": 13
+      "id": 13,
+      "price": "$186,950"
     },
     {
       "name": "2023 Lamborghini Urus",
       "description": "The 2023 Lamborghini Urus is a high-performance luxury SUV with a twin-turbocharged 4.0-liter V8 engine that produces 641 horsepower. It can accelerate from 0 to 60 mph in just 3.5 seconds.",
       "company": "Lamborghini",
       "image": "https://divine-offishal.github.io/zedd-images/car14.webp",
-      "id": 14
+      "id": 14,
+      "price": "$218,009"
     },
     {
       "name": "2023 BMW M5 Competition",
       "description": "The 2023 BMW M5 Competition is a high-performance luxury sedan with a twin-turbocharged 4.4-liter V8 engine that produces 617 horsepower. It can accelerate from 0 to 60 mph in just 3.0 seconds.",
       "company": "BMW",
       "image": "https://divine-offishal.github.io/zedd-images/car15.webp",
-      "id": 15
+      "id": 15,
+      "price": "$123,500"
     },
     {
       "name": "2023 Porsche Cayenne Turbo GT",
       "description": "The 2023 Porsche Cayenne Turbo GT is a high-performance luxury SUV with a twin-turbocharged 4.0-liter V8 engine that produces 631 horsepower. It can accelerate from 0 to 60 mph in just 3.1 seconds.",
       "company": "Porsche",
       "image": "https://divine-offishal.github.io/zedd-images/car16.webp",
-      "id": 16
+      "id": 16,
+      "price": "$182,150"
     },
     {
       "name": "2023 Audi RS6 Avant",
       "description": "The 2023 Audi RS6 Avant is a high-performance luxury station wagon with a twin-turbocharged 4.0-liter V8 engine that produces 591 horsepower. It can accelerate from 0 to 60 mph in just 3.5 seconds.",
       "company": "Audi",
       "image": "https://divine-offishal.github.io/zedd-images/car17.webp",
-      "id": 17
+      "id": 17,
+      "price": "$109,990"
     },
     {
       "name": "2023 Mercedes-AMG C63 S",
       "description": "The 2023 Mercedes-AMG C63 S is a high-performance luxury sedan with a twin-turbocharged 4.0-liter V8 engine that produces 503 horsepower. It can accelerate from 0 to 60 mph in just 3.8 seconds.",
       "company": "Mercedes-AMG",
       "image": "https://divine-offishal.github.io/zedd-images/car18.webp",
-      "id": 18
+      "id": 18,
+      "price": "$74,400"
     },
     {
       "name": "2023 Lamborghini Aventador LP 780-4 Ultimae",
       "description": "The 2023 Lamborghini Aventador LP 780-4 Ultimae is a high-performance sports car with a naturally aspirated 6.5-liter V12 engine that produces 769 horsepower. It can accelerate from 0 to 60 mph in just 2.8 seconds.",
       "company": "Lamborghini",
       "image": "https://divine-offishal.github.io/zedd-images/car19.webp",
-      "id": 19
+      "id": 19,
+      "price": "$517,770"
     },
     {
       "name": "BMW iX1 (2023)",
       "description": "The 2023 BMW X7 M50i is a high-performance luxury SUV with a twin-turbocharged 4.4-liter V8 engine that produces 523 horsepower. It can accelerate from 0 to 60 mph in just 4.1 seconds.",
       "company": "BMW",
       "image": "https://divine-offishal.github.io/zedd-images/car20.webp",
-      "id": 20
+      "id": 20,
+      "price": "$108,995"
     }
+    
   ],
 
   
@@ -147,7 +168,7 @@
     {
       "name": "Roof Rack",
       "description": "A roof rack is an accessory that is mounted on top of a car to carry extra luggage and equipment. It is designed to fit a specific make and model of car, and can be used to carry items such as bikes, kayaks, and skis.",
-      "price": 129.99,
+      "price": "$129.99",
       "category": "Exterior Accessories",
       "image": "https://divine-offishal.github.io/zedd-images/repair1.webp",
       "id": 1
@@ -155,7 +176,7 @@
     {
       "name": "HUMMER Compatible AUTO LED Floor Mats",
       "description": "Floor mats are accessories that are placed on the floor of a car to protect the carpet from dirt, debris, and wear and tear. They come in a variety of materials and styles, and can be customized to fit the specific make and model of a car.",
-      "price": 39.99,
+      "price": "$39.99",
       "category": "Interior Accessories",
       "image": "https://divine-offishal.github.io/zedd-images/repair2.webp",
       "id": 2
@@ -163,7 +184,7 @@
     {
       "name": "2014-2019 Anytime Front and Backup Camera Kit",
       "description": "A backup camera is an accessory that is mounted on the rear of a car to provide a view of what is behind the car when backing up. It can help prevent accidents and make parking easier.",
-      "price": 79.99,
+      "price": "$79.99",
       "category": "Electronics",
       "image": "https://divine-offishal.github.io/zedd-images/repair3.webp",
       "id": 3
@@ -171,7 +192,7 @@
     {
       "name": "2010-2014 Volkswagen Golf 6 Front LED Headlights Assembly",
       "description": "LED headlights are an upgrade from traditional halogen headlights. They provide brighter and more focused light, which can improve visibility while driving. They are also more energy-efficient and longer-lasting than halogen headlights.",
-      "price": 199.99,
+      "price": "$199.99",
       "category": "Lighting",
       "image": "https://divine-offishal.github.io/zedd-images/repair4.webp",
       "id": 4
@@ -179,7 +200,7 @@
     {
       "name": "Car Seat Cushion Cover Protector Set",
       "description": "Seat covers are accessories that are placed over the seats of a car to protect them from stains, spills, and wear and tear. They can also add a touch of style and personalization to the interior of a car.",
-      "price": 59.99,
+      "price": "$59.99",
       "category": "Interior Accessories",
       "image": "https://divine-offishal.github.io/zedd-images/repair5.webp",
       "id": 5
@@ -187,7 +208,7 @@
     {
       "name": "Tires",
       "description": "A roof rack is an accessory that is mounted on top of a car to carry extra luggage and equipment. It is designed to fit a specific make and model of car, and can be used to carry items such as bikes, kayaks, and skis.",
-      "price": 129.99,
+      "price": "$129.99",
       "category": "Exterior Accessories",
       "image": "https://divine-offishal.github.io/zedd-images/repair6.webp",
       "id": 6
@@ -195,7 +216,7 @@
     {
       "name": "Steering wheel cover",
       "description": "Floor mats are accessories that are placed on the floor of a car to protect the carpet from dirt, debris, and wear and tear. They come in a variety of materials and styles, and can be customized to fit the specific make and model of a car.",
-      "price": 39.99,
+      "price": "$39.99",
       "category": "Interior Accessories",
       "image": "https://divine-offishal.github.io/zedd-images/repair7.webp",
       "id": 7
@@ -203,7 +224,7 @@
     {
       "name": "Anti-theft steering wheel lock",
       "description": "A backup camera is an accessory that is mounted on the rear of a car to provide a view of what is behind the car when backing up. It can help prevent accidents and make parking easier.",
-      "price": 79.99,
+      "price": "$79.99",
       "category": "Electronics",
       "image": "https://divine-offishal.github.io/zedd-images/repair8.webp",
       "id": 8
@@ -211,7 +232,7 @@
     {
       "name": "Spanner",
       "description": "LED headlights are an upgrade from traditional halogen headlights. They provide brighter and more focused light, which can improve visibility while driving. They are also more energy-efficient and longer-lasting than halogen headlights.",
-      "price": 199.99,
+      "price": "$199.99",
       "category": "Lighting",
       "image": "https://divine-offishal.github.io/zedd-images/repair9.webp",
       "id": 9
@@ -219,7 +240,7 @@
     {
       "name": "Tire Rim covers",
       "description": "Seat covers are accessories that are placed over the seats of a car to protect them from stains, spills, and wear and tear. They can also add a touch of style and personalization to the interior of a car.",
-      "price": 59.99,
+      "price": "$59.99",
       "category": "Interior Accessories",
       "image": "https://divine-offishal.github.io/zedd-images/repair10.webp",
       "id": 10
